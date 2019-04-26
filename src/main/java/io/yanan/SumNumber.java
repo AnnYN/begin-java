@@ -1,4 +1,4 @@
-package come.example.sumnumber;
+package io.yanan;
 
 /**
  * Computes and returns the sum of all integers between two
@@ -16,7 +16,7 @@ package come.example.sumnumber;
  */
 
 
-public class sumnumber {
+public class SumNumber {
 
     public static int getRangeSum(int lowerLimit , int upperLimit ){
         int sum = 0;
